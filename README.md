@@ -1,7 +1,7 @@
 ## Eae sou Vinicius estudante de desenvolvimento de software fullstack
 
-- Atualmento estou aprofundando meu conhecimento em front-end com a biblioteca React.js e Bootstrap
-- Estou cursando o 3 modulo de back-end na trybe em busca de se formar um desenvolvedor fullstack 
+- Atualmento estou aprofundando meu conhecimento em front-end com a biblioteca React.js, Bootstrap e Desing de interface(UK e UI);
+- Estou cursando o 3 modulo de back-end na trybe em busca de se formar um desenvolvedor fullstack;
 
 ## Minhas Redes Sociais
  <div> 
