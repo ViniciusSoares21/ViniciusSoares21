@@ -14,36 +14,36 @@
 ## Tecnologias e Ferramentas
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=593D88)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orage)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest&logoColor=99425B)
-![RTL](https://img.shields.io/badge/-RTL-black?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=593D88)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orage)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
+![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=Jest&logoColor=99425B)
+![RTL](https://img.shields.io/badge/-RTL-black?style=for-the-badge)
 
 ### Backend
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=019BC6)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-black?style=flat-square&logo=Mocha&logoColor=8D6748)
-![Chai](https://img.shields.io/badge/Chai-black?style=flat-square&logo=chai&logoColor=A30701)
-![Sinon](https://img.shields.io/badge/-Sinon-black?style=flat-square)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=Sequelize&logoColor=52B0E7)
-![mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=019BC6)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-black?style=for-the-badge&logo=Mocha&logoColor=8D6748)
+![Chai](https://img.shields.io/badge/Chai-black?style=for-the-badge&logo=chai&logoColor=A30701)
+![Sinon](https://img.shields.io/badge/-Sinon-black?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+![mongoose](https://img.shields.io/badge/-Mongoose-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 
 ### Design
 
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=orage)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=orage)
 
 <br/>
 
