@@ -1,35 +1,56 @@
 ## Eae sou Vinicius estudante de desenvolvimento de software fullstack
-
 - Atualmento estou aprofundando meu conhecimento em front-end com a biblioteca React.js, Bootstrap e Desing de interface(UX e UI);
 - Estou cursando o 3 modulo de back-end na trybe em busca de se formar um desenvolvedor fullstack;
 
-## Minhas Redes Sociais
- <div> 
-  <a href = "mailto:viniciussoares72943@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-soares-864743243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Contato <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+  <a href="https://www.linkedin.com/in/vinicius-soares-864743243/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:viniciussoares72943@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+  <br />
 
 ## Tecnologias e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
-</div>
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=593D88)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orage)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest&logoColor=99425B)
+![RTL](https://img.shields.io/badge/-RTL-black?style=flat-square)
+
+### Backend
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=019BC6)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-black?style=flat-square&logo=Mocha&logoColor=8D6748)
+![Chai](https://img.shields.io/badge/Chai-black?style=flat-square&logo=chai&logoColor=A30701)
+![Sinon](https://img.shields.io/badge/-Sinon-black?style=flat-square)
+![Sequelize](https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=Sequelize&logoColor=52B0E7)
+![mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+
+
+### Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=orage)
+
 <br/>
 
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/viniciusSoares21">
+
 
 <div style="display: inline-block" align="colunm" painel>
   <a href="https://github.com/viniciusSoares21">
