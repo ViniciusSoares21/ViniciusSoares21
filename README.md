@@ -1,6 +1,7 @@
-## Eae sou Vinicius estudante de desenvolvimento de software fullstack
-- Atualmento estou aprofundando meu conhecimento em front-end com a biblioteca React.js, Bootstrap e Desing de interface(UX e UI);
-- Estou cursando o 3 modulo de back-end na trybe em busca de se formar um desenvolvedor fullstack;
+## Eae sou Vinicius desenvolvedor fullstack
+- Atualmento estou praticando minhas habilidades aprendidas na trybe com objetivo de aprimorar as habilidades com os frameworks, e conceitos como POO, SOLID, Teste de integração e BDD.
+- Estou em busca de oportunidade no mercado de trabalho, para contribuir com minhas habilidades e construir um futuro de sucesso  
+- Estou cursando o 4 modulo ciência da computação na trybe em busca de desenvolver habilidades com a linguagem python;
 
 ## Contato <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
   <a href="https://www.linkedin.com/in/vinicius-soares-864743243/">
