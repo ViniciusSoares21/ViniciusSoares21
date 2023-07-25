@@ -36,6 +36,15 @@
 ![mongoose](https://img.shields.io/badge/-Mongoose-black?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+### Computer Science
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Pytest](https://img.shields.io/badge/-Pytest-black?style=for-the-badge&logo=pytest)
+![Requests](https://img.shields.io/badge/-requests-black?style=for-the-badge&logo=requests)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=seleniun)
+![BeautifulSoup](https://img.shields.io/badge/-Beautiful%20Soup-black?style=for-the-badge&logo=BeautifulSoup)
+![Pandas](https://img.shields.io/badge/-PANDAS-black?style=for-the-badge&logo=pandas)
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
+![fastapi](https://img.shields.io/badge/-FestAPI-black?style=for-the-badge&logo=fastapi)
 
 ### Database
 
