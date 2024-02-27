@@ -1,5 +1,5 @@
 ## Eae sou Vinicius desenvolvedor fullstack
-- Atualmento estou praticando minhas habilidades aprendidas na trybe com objetivo de aprimorar as habilidades com os frameworks, e conceitos como POO, SOLID, Teste de integração e BDD.
+- Atualmente estou buscando me profissionalizar um programador Full Cycle, com conhecimento e experiência em todas as áreas do desenvolvimento de software.
 - Estou em busca de oportunidade no mercado de trabalho, para contribuir com minhas habilidades e construir um futuro de sucesso  
 
 ## Contato <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
